@@ -1,5 +1,5 @@
 ```
-Hello. I'm Husayn Haras.
+Salam. I'm Husayn Haras.
 
 I find Software Development a hobby.
 Still going through the learning process.
